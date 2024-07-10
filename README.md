@@ -1,5 +1,5 @@
 # super-rentals
-
+https://668e82b8bd12581d85040eda--jocular-kheer-fe0da2.netlify.app/
 This README outlines the details of collaborating on this Ember application.
 A short introduction of this app could easily go here.
 
